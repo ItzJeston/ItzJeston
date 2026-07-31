@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Jeston 👋
 
-<!--
-**ItzJeston/ItzJeston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
 
-Here are some ideas to get you started:
+Skills:
+- Machine Learning
+- Python
+- Flask
+- MySQL
+- C
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+🍽️ Mess Feedback System
+- Flask
+- MySQL
+- Authentication
+- CRUD
+- Admin Dashboard
+
+Coming Soon
+- House Price Prediction
+- Spam Classifier
+- Movie Recommendation System
+
+## Currently Learning
+
+Andrew Ng's Machine Learning Specialization
+
+## Reach Me
+
+LinkedIn:https://www.linkedin.com/in/jeston-correa-7b5647357/
+Email:jestoncorrea3@gmail.com
+
