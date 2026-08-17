@@ -19,15 +19,6 @@ Skills:
 - CRUD
 - Admin Dashboard
 
-Coming Soon
-- House Price Prediction
-- Spam Classifier
-- Movie Recommendation System
-
-## Currently Learning
-
-Andrew Ng's Machine Learning Specialization
-
 ## Reach Me
 
 -LinkedIn:https://www.linkedin.com/in/jeston-correa-7b5647357/
